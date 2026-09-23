@@ -3,4 +3,4 @@ calculation code, so its numbers match Path of Building.
 
 The app is free and will stay free. It is open source under the MIT licence, and its community helps build it.
 
-[Download](https://pobredux.com) · [Source code](https://github.com/juddisjudd/pob-redux) · [Report a bug](https://github.com/juddisjudd/pob-redux/issues)
+[Download](https://pobredux.com) · [Source code](https://github.com/pobredux/pob-redux) · [Report a bug](https://github.com/pobredux/pob-redux/issues)
